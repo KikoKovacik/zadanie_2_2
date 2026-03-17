@@ -26,8 +26,3 @@
         Created and designed by Lívia
     </div>
 </footer>
-<script src="js/menu.js"></script>
-<script src="js/slider.js"></script>
-<script src="js/accordion.js"></script>
-</body>
-</html>
